@@ -39,7 +39,8 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 # Intructor 
 Kate Thornhill
-# LIB/ DSCI 350M Humanities Resource Data Management, Fall Term 2025
+# Course and Institution 
+LIB/ DSCI 350M Humanities Resource Data Management, Fall Term 2025 University Of Oregon
 
 
 # Ownership
