@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This digital collection explores the relationship between changing fashion and expanding personal freedoms utilizing bikes through the 20th century. Through visual mediums our collection of 20 photogrpahs highlights how everday riders expressed thier identity through fashion and adapting bicycles to show showcase individual style during the Bicycle Revolution.
+This digital collection explores the relationship between changing fashion and expanding personal freedoms utilizing bikes through the 20th century. Through visual mediums our collection of 25 photogrpahs highlights how everday riders expressed thier identity through fashion and adapting bicycles to show showcase individual style during the Bicycle Revolution.
  
 ## GLAM'S Used
 
