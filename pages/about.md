@@ -33,7 +33,9 @@ This digital collection explores the relationship between changing fashion and e
 - *Hailey* 
 
 # Intructor 
+
 Kate Thornhill
+
 # Course and Institution 
 LIB/ DSCI 350M Humanities Resource Data Management, Fall Term 2025 University Of Oregon
 
