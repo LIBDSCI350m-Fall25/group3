@@ -16,11 +16,13 @@ credits: true
 
 This digital collection explores the relationship between changing fashion and expanding personal freedoms utilizing bikes through the 20th century. Through visual mediums our collection of 20 photogrpahs highlights how everday riders expressed thier identity through fashion and adapting bicycles to show showcase individual style during the Bicycle Revolution.
  
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
 ## GLAM'S Used
 
 - Library Of Congress 
+-
+-
+-
+-
 
 
 
