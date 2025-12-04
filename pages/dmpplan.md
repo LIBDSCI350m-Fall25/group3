@@ -104,7 +104,7 @@ The Project Manager has agreed to do monthly checkups on the object files and me
 # *Appendix* 
 Metadata Application Profile, Data Dictionary, and DMP
 
-- Metadata Application Profile Available in our GitHub Repository and Linked as [group3-map.pdf](https://github.com/LIBDSCI350m-Fall25/group3/blob/main/objects/Data%20Management%20Plan.pdf).
+- Metadata Application Profile Available in our GitHub Repository and Linked as [group3-map.pdf](https://github.com/LIBDSCI350m-Fall25/group3/blob/main/objects/group3-map.pdf).
 - File Naming Conventions Available in our GitHub Repository and Linked as [file-naming-standard.pdf](https://github.com/LIBDSCI350m-Fall25/group3/blob/main/objects/file_naming_standard.pdf).
 - Data Backup Strategy Available in our GitHub Repository and Linked as [data-backup-strategy.pdf](https://github.com/LIBDSCI350m-Fall25/group3/blob/main/objects/data-backup-strategy.pdf).
 - Data Management Plan Available as PDF in our GitHub Repository and Linked as [Data%Management%Plan.pdf](https://github.com/LIBDSCI350m-Fall25/group3/blob/main/objects/Data%20Management%20Plan.pdf)
