@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="ba_nyplpc_1935-1945_photo_worldofmannequins.jpg"%}
+{% include feature/jumbotron.html objectid="ac_nypldc_1935-1945_photo_transportationtofair-womanonbicycle.jpg"%}
 
 
 
