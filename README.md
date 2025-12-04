@@ -14,9 +14,9 @@ Description referenced from Course Syllabus
 - *Ceilidh McCallum* Project Manager
 - *Hailey Rosquist* Metatdata Manager
 
-[The Bicycle Revolution - Fashions and Freedoms](https://libdsci350m-fall25.github.io/group3/) 
+[The Bicycle Revolution - Fashions and Freedoms GitHub](https://github.com/LIBDSCI350m-Fall25/group3) 
 
-## The Bicycle Revolution - Fashions and Freedoms
+## [The Bicycle Revolution - Fashions and Freedoms](https://libdsci350m-fall25.github.io/group3/)
 
 This digital collection explores the relationship between changing fashion and expanding personal freedoms utilising bikes through the 20th century. Through visual media, our collection of 25 photographs highlights how everyday riders expressed their identity through fashion and adapting bicycles to showcase individual style during the Bicycle Revolution.
 
