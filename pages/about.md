@@ -49,6 +49,6 @@ LIB/ DSCI 350M Humanities Resource Data Management, Fall Term 2025 University Of
 
 We do not claim ownership over the objects within this collection. Objects are owned by their creators and source repositories. All Objects used in this collection are for educational purposes.
 
-# Acknoledgements
+# Acknowledgements
 
 We would like to extend our deepest gratitude to Kate for her knowledge and expertise with the tools skills we've acquired, and her willingness to help at every step along the process of creating this collection. We would also like to offer our thanks to the GLAMS we referenced and used in our collection, and acknowledge their opennes at having their own digital collections from which we had images and ephemera to look through.
