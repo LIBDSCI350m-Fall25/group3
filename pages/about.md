@@ -10,8 +10,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="ac_nypldc_1935-1945_photo_transportationtofair-womanonbicycle.jpg"%}
 
-
-
 ## About the Collection
 
 This digital collection explores the relationship between changing fashion and expanding personal freedoms utilising bikes through the 20th century. Through visual media, our collection of 25 photographs highlights how everyday riders expressed their identity through fashion and adapting bicycles to showcase individual style during the Bicycle Revolution.
@@ -32,7 +30,6 @@ Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, DC, 
 - National Postal Museum
 - Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington, DC, Gift of Joseph H. Hirshhorn, 1966
   
-
 ## Contributors 
 
 - *Andre Cachoua Cervillo* Repository Manager
@@ -48,7 +45,10 @@ Kate Thornhill
 # Course and Institution 
 LIB/ DSCI 350M Humanities Resource Data Management, Fall Term 2025 University Of Oregon
 
-
 # Ownership
 
 We do not claim ownership over the objects within this collection. Objects are owned by their creators and source repositories. All Objects used in this collection are for educational purposes.
+
+# Acknoledgements
+
+We would like to extend our deepest gratitude to Kate for her knowledge and expertise with the tools skills we've acquired, and her willingness to help at every step along the process of creating this collection. We would also like to offer our thanks to the GLAMS we referenced and used in our collection, and acknowledge their opennes at having their own digital collections from which we had images and ephemera to look through.
